@@ -1,0 +1,22 @@
+{
+  "name": "react-radio-group",
+  "version": "1.0.0",
+  "description": "react radio button group component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "radio",
+    "bootstrap",
+    "button-group"
+  ],
+  "author": "zhangqiang <dotslash.lu@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "react": "^15.4.1"
+  }
+}
